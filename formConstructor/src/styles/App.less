@@ -1,0 +1,77 @@
+/* Base Application Styles */
+
+html,body {
+  height: 100%;
+  background-color: #fff;
+}
+
+.content{
+  position: fixed;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  .header {
+    margin: 0;
+    border-radius: 0;
+  }
+}
+
+.my-container {
+  height: 100%;
+  width: 100%;
+  padding: 0;
+  margin: 0;
+  color: rgba(76,99,99,1);
+  background-color: rgba(236,240,243,1);
+  .my-row{
+    height: 100%;
+    overflow-y: scroll;
+    .leftNav {
+      min-height: 100%;
+      border-right: 1px solid rgba(209,215,220,1);
+      padding-right: 0;
+      .nav-ul {
+        margin-top: 50px;
+      }
+      .nav-ul2 {
+        padding-left: 50px;
+      }
+      .nav-ul-show {
+        display: block;
+      }
+      .nav-ul-hide {
+        display: none;
+      }
+      .nav-li {
+          border-bottom: 1px solid rgba(220,226,230,1);
+          min-height: 49px;
+          color: rgba(89,109,109,1);
+          margin-top:0;
+          a {
+            padding: 14px 15px;
+            border-radius: 0;
+          }
+        }
+        .nav-li:first-child {
+          border-top: 1px solid rgba(220,226,230,1);
+          border-bottom: 1px solid rgba(220,226,230,1);
+        }
+        .nav-li:last-child {
+          border-bottom: 1px solid rgba(220,226,230,1);
+        }
+    }
+    .rightPages {
+      min-height: 100%;
+    }
+  }
+}
+
+
+
+
+
+.joyLogo {
+  width: 100px;
+}
+

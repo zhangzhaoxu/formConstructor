@@ -1,0 +1,86 @@
+{
+  "handleItems" :{
+    "show": "true",
+    "items" : [{
+      "active": "true",
+      "text": "啊啊啊我是默认",
+      "key": [0],
+      "children": {
+        "show": "false",
+        "items": []
+      }
+    },{
+      "active": "false",
+      "text": "啊啊啊我是默认",
+      "key": [1],
+      "children": {
+        "show": "false",
+        "items": [{
+          "active": "false",
+          "text": "啊啊啊我是默认",
+          "key": [1,1],
+          "children": {
+            "show": "false",
+            "items": []
+          }
+        },{
+          "active": "false",
+          "text": "啊啊啊我是默认",
+          "key": [1,2],
+          "children": {
+            "show": "false",
+            "items": []
+          }
+        },{
+          "active": "false",
+          "text": "啊啊啊我是默认",
+          "key": [1,3],
+          "children": {
+            "show": "false",
+            "items": []
+          }
+        },{
+          "active": "false",
+          "text": "啊啊啊我是默认",
+          "key": [1,4],
+          "children": {
+            "show": "false",
+            "items": []
+          }
+        },{
+          "active": "false",
+          "text": "啊啊啊我是默认",
+          "key": [1,5],
+          "children": {
+            "show": "false",
+            "items": []
+          }
+        }]
+      }
+    },{
+      "active": "false",
+      "text": "啊啊啊我是默认",
+      "key": [2],
+      "children": {
+        "show": "false",
+        "items": []
+      }
+    },{
+      "active": "false",
+      "text": "啊啊啊我是默认",
+      "key": [3],
+      "children": {
+        "show": "false",
+        "items": []
+      }
+    },{
+      "active": "false",
+      "text": "啊啊啊我是默认",
+      "key": [4],
+      "children": {
+        "show": "false",
+        "items": []
+      }
+    }]
+  }
+}

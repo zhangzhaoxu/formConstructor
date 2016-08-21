@@ -1,0 +1,33 @@
+{
+	"AllInfo": {
+		"componentsList": [
+			{
+				"type": "输入框",
+				"active": true,
+				"key": "input",
+				"components" : []
+			},
+			{
+				"type": "Select",
+				"active": false,
+				"key": "select",
+				"components" :[]
+			},
+			{
+				"type": "Checkbox/Radio",
+				"active": false,
+				"key": "checkbox",
+				"components": []
+			},
+			{
+				"type": "文件/按钮",
+				"active": false,
+				"key": "file",
+				"components": []
+			}
+		],
+		"pageSimulate": [
+			
+		]
+	}
+}
